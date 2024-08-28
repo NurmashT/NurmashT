@@ -45,4 +45,4 @@ Hey, everyone! 👋 I'm Nurmash Tashenov, a Computer Science Junior at the Unive
 ---
 
 ### 📫 Let's Connect!
-[LinkedIn](#www.linkedin.com/in/nurmash-tashenov)
+[LinkedIn](www.linkedin.com/in/nurmash-tashenov)
