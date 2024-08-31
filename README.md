@@ -19,6 +19,7 @@ Hey, everyone! 👋 I'm Nurmash Tashenov, a Computer Science Junior at the Unive
   - Computer Organization (RISC-V)
   - Computer Architecture
   - 100 Days of Code: The Complete Python Pro Bootcamp (Udemy)
+  - Web Development (CodePath)
 
 ---
 
