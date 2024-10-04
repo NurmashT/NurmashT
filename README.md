@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Nurmash Tashenov</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=E3B675&center=true&vCenter=true&multiline=true&repeat=false&width=200&height=60&lines=Hey,+I'm+Nurmash+Tashenov!;CS+Junior+at+the+University+of+South+Florida.;Focused+on+Machine+Learning+and+Web+Development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=E3B675&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=60&lines=Hey,+I'm+Nurmash+Tashenov!;CS+Junior+at+the+University+of+South+Florida.;Focused+on+Machine+Learning+and+Web+Development.)](https://git.io/typing-svg)
 
 I'm actively engaged in machine learning and web development projects. My journey is driven by a passion for innovation and a dedication to building impactful solutions.
 
